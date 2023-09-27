@@ -36,6 +36,8 @@ dados;
 4. Utilizar framework VUE JS na construção dinâmica de
 elementos HTML.
 
+---
+
 ## 🛠 Lightweight
 
 Para atingirmos o nosso objetivo, recomendamos os seguintes tópicos:
