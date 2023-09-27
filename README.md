@@ -15,8 +15,8 @@ Curso Full-Stack da Universidade Estácio.
 ## 📜 Project
 
 Vamos desmonstrar algum Exemplos de diferentes formas de utilização do `Java Script` no
-lado cliente, uso de `JSON` na transmissão de ``dados` e
-``framework`,`VUE JS`.
+lado cliente, uso de `JSON` na transmissão de `dados` e
+`framework` `VUE JS`.
 
 ---
 
